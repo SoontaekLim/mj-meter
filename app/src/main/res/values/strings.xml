@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeTemperature</string>
+
+    <string name="temperature">%s \u2103</string>
+    <string name="humidity">%s %%</string>
+    <string name="last_date">Last updated: %s</string>
+    <string name="current_temperature">Current Status</string>
+
+    <string name="status_template">Temperature: %s \u2103\n\n\nHumidity: %s %%\n\n\nLast updated: %s</string>
+    <string name="loading">Loading...</string>
+    <string name="chart_button">Show Graph...</string>
+</resources>
